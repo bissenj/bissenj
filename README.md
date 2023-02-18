@@ -46,6 +46,13 @@ I'm a professional Full Stack Developer since 2004 who has worked with a variety
 </div>
  
 
+
+<br>
+<br>
+ 
+ (This is one of several GitHub accounts I use and my contribution history is missing most of my commits for the last few years)
+ 
+
 <!--
 **bissenj/bissenj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
