@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a professional Full Stack Developer since 2004 who has worked with a variety of clients from large fortune 500 companies, to non-profits, and even my own local small business.
+I'm a professional Full Stack Developer since 2004 who has worked with a variety of organizations from large fortune 500 companies, non-profits, and even my own local small business.
 
 
 #### I’m currently working on ####
@@ -37,7 +37,7 @@ I'm a professional Full Stack Developer since 2004 who has worked with a variety
 <br>
 <br>
 
-**Prior experience building with**
+**Production experience building with**
 <div display='flex'>
   <img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' alt='.NET'/>
   <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='C#'/>  
