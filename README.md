@@ -6,7 +6,7 @@ I'm a professional Full Stack Developer since 2004 who has worked with a variety
 #### I’m currently working on ####
 * Becoming a better Front End Developer and Designer.
 * Finding a team to work with for a part-time long-term gig.
-* A web and mobile project linking a person's self-identity, goals, timetracking and organization skills.
+* A web and mobile project linking a person's identity, goals, timetracking and organization skills.
 
 <br>
 
