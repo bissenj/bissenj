@@ -32,6 +32,7 @@ I'm a professional Full Stack Developer since 2004 who has worked with a variety
   <img src='https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' alt='Azure'/>  
   <img src='https://img.shields.io/badge/-Fly.io-%237c3aed?style=for-the-badge' alt='Fly.io'/>  
   <img src='https://img.shields.io/badge/-Prismic.io-000?style=for-the-badge' alt='Prismic.io'/>    
+  <img src='https://img.shields.io/badge/-Sanity.io-f03e2f?style=for-the-badge' alt='Sanity.io'/>      
 </div>
 
 <br>
