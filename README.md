@@ -54,7 +54,9 @@ I'm a professional Full Stack Developer since 2004 who has worked with a variety
 <br>
 <br>
  
-This is one of several GitHub accounts I use.  My contribution history is missing most of my commits for the last few years 🆖 due to issues using multiple accounts (email addresses) 😉 
+This is one of several GitHub accounts I use.  
+
+**My contribution history is missing most of my commits for the last few years,** due to issues using multiple accounts (email addresses).  
  
 
 <!--
