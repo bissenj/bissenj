@@ -1,4 +1,4 @@
-### Hi there 👋
+#### About
 
 I'm a professional Full Stack Developer since 2004 who has worked with a variety of organizations from large fortune 500 companies, to non-profits, and even my own local small business.
 
