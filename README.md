@@ -38,7 +38,7 @@ I'm a professional Full Stack Developer since 2004 who has worked with a variety
 <br>
 <br>
 
-**Production experience building with**
+**Production experience building with (and a few others)**
 <div display='flex'>
   <img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white' alt='.NET'/>
   <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='C#'/>  
